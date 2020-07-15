@@ -1,4 +1,4 @@
-import cv2qq
+import cv2
 
 #THISIS MY WEB CAMERE
 cap = cv2.VideoCapture(0)
