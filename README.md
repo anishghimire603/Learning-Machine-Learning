@@ -11,7 +11,7 @@ Clone the repo in your local machine using git:
 
 You need to have opencv and numpy installed in your machine:
 
-<code> pip install opencv </code>
+<code> pip install opencv-python </code>
 
 
 ### 2nd
