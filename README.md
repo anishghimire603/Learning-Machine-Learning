@@ -29,7 +29,8 @@ Open those files in Your favorite Code editor (Recommended: Pycharm, Atom or Vsc
 
 It is for capturing the steel background like this:
 <br>
-<img src="Day 2 Project - Harry Potter Invisible Cloak/image.jpg”  alt=”background steel image”/>
+
+https://github.com/anishghimire603/Learning-Machine-Learning/blob/master/Day%202%20Project%20-%20Harry%20Potter%20Invisible%20Cloak/image.jpg
 
 <b>You need to press 'q' for capturing image after web camera opens.</b>
 
