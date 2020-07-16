@@ -7,7 +7,7 @@
 
 Clone the repo in your local machine using git:
 
-<code> git clone "https://github.com/anishghimire603/Learning-Machine-Learning.git" </code>
+<code> git clone https://github.com/anishghimire603/Learning-Machine-Learning.git </code>
 
 You need to have opencv and numpy installed in your machine:
 
