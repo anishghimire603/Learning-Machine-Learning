@@ -46,3 +46,6 @@ Enjoy!!! 🥂 Keep being invisible lol 😂😂😂
 PS: Don't forget to change the background image.
 
 Thanks @codeforcause
+
+# QUICK NOTE:
+I have stoped this bootcamp inbetween because of my exam I will be updating this repo after 2months.
