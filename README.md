@@ -5,7 +5,7 @@
 
 ### 1st 
 
-Clone the repo in your local machine using git:
+Clone the repo in your local machine:
 
 <code> git clone https://github.com/anishghimire603/Learning-Machine-Learning.git </code>
 
@@ -37,7 +37,7 @@ It is for capturing the steel background like this:
 
 ### invisible_cloak.py:
 
-It is the actual Invisible cloak program which will work with red objects only after capturing your steel background imag because of it's code 
+It is the actual Invisible cloak program which will work with red objects only after capturing your steel background image because of it's code 
 
 *****************************************************************
 
